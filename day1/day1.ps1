@@ -1,3 +1,6 @@
+# Advent of Code 2020 Day 1 by Antti Auranen
+# Caution: Slow af. On my desktop PC it took roughly 45 minutes to run through the whole list
+
 $input = Get-Content -Path .\input.txt
 $input.length
 
